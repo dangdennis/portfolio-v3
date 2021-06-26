@@ -106,8 +106,8 @@
       <div>
         <h3>Trending Interests</h3>
         <p class="mb-3">
-          <span class="highlight">Elixir, Elm,</span>
-          Web3, conventions over configurations.
+          <span class="highlight">Functional programming (Rescript/Purescript), fast websites, </span>
+           Web3, conventions over configurations.
         </p>
         <p class="mb-3">House dance, spooky podcasts.</p>
       </div>
